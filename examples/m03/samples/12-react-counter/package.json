@@ -54,8 +54,8 @@
     "preact": "^7.2.1",
     "preact-compat": "^3.14.3",
     "prop-types": "^15.5.8",
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4",
+    "react": "^15.7.0",
+    "react-dom": "^15.7.0",
     "react-redux": "^5.0.6",
     "redux": "^3.7.2"
   }
